@@ -1,9 +1,9 @@
 gasUsed = 21000
-TnxCost = 0.000399
-fiatCost = 1.00
+TnxCost = 0.0004725
+fiatCost = 1.489
 
 # If new cost given, compute new TnxCost.
-newGasUsed = 67215
+newGasUsed = 85964
 
 
 def oneTimeCompute():
