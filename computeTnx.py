@@ -1,7 +1,7 @@
 gasUsed = 0.000399
 TnxCost = 1.00
 
-# If new cost given, compute new TnxCost.
+# If new cost given, compute new Transaction cost.
 newGasUsed = 0.0024
 newTnxCost = 0
 
